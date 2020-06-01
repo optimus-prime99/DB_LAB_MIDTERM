@@ -56,7 +56,7 @@ class Mproduct extends CI_Model {
 		$this->db->insert($this->table,$mydata);
 	}
     //Sửa
-	public function product_update($mydata,$id)
+	public function product_update($mydata,$id) 
 	{
 		$this->db->where('id',$id);
 		$this->db->update($this->table, $mydata);
