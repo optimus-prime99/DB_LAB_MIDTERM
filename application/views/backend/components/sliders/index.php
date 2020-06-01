@@ -51,7 +51,7 @@
 											<td style="width:100px">
 												<img src="public/images/banners/<?php echo $row['img'] ?>" class="img-responsive">
 											</td>
-											<td><a href="<?php echo base_url() ?>admin/sliders/update/<?php echo $row['id'] ?>"><?php echo $row['name'] ?></a>
+											<td><a href="admin/sliders/update/<?php echo $row['id'] ?>"><?php echo $row['name'] ?></a>
 											</td>
 											<td> <?php echo $row['link'] ?></td>
 											<td class="text-center">
@@ -66,7 +66,7 @@
 											<?php
 												if($user['role']==1){
 													echo '<td class="text-center">
-												<a class="btn btn-success btn-xs" href="<?php echo base_url() ?>admin/sliders/update/'.$row['id'].'" role = "button">
+												<a class="btn btn-success btn-xs" href="admin/sliders/update/'.$row['id'].'" role = "button">
 													<span class="glyphicon glyphicon-edit"></span>Sửa
 												</a>
 											</td>';

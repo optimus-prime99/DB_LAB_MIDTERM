@@ -1,5 +1,5 @@
 
-<section id="header"">
+<section id="header">
 	<nav class="navbar" style="z-index: 9999">
 		<div class="container">
 			<div class="col-md-12 col-lg-12">
@@ -36,7 +36,7 @@
                 			echo "<li><a href='dang-xuat'>Thoát</a></li>";
                 		}else{
                 			echo "<li><a href='dang-ky'>Đăng ký</a></li>";
-                			echo "<li><a href='dang-nhap'>Đăng nhập</a></li>";
+                			echo "<li><a href='dang-nhap'>Đăng nhập</a></li>"; 
                 		}
                 		?>
                 	</ul>

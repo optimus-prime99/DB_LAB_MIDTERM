@@ -1,15 +1,15 @@
 <footer id="footer">
-    <div class="news-social">
+    <div class="news-social" style="background: #0f9ed8; height: 50px">
         <div class="container">
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                <ul class="list-unstyled social pull-right">
+                <!-- <ul class="list-unstyled social pull-right">
                   <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                   <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                   <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
                   <li><a href="#"><i class="fab fa-youtube"></i></a></li>
-              </ul>
+              </ul> -->
           </div>
-      </div>
+      </div> 
   </div>
   <div class="top-footer">
     <div class="container">

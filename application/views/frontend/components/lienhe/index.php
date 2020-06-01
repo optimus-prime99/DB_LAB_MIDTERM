@@ -64,7 +64,7 @@
 				</li>
 				<li class="clearfix">
 					<i class="fa fa-envelope fa-1x " style="color:#0f9ed8; padding: 20px; "></i>
-					<span style="color: black"><a href="mailto:sale.24hstore@gmail.com">sale.smartstore@gmail.com</a></span>
+					<span style="color: black"><a href="mailto:dominhthong99@gmail.com">sale.smartstore@gmail.com</a></span>
 				</li>
 			</ul>
 		</div>
@@ -73,7 +73,7 @@
 	<div class="col-md-12 col-lg-12 col-xs-12 col-12">
 
 		<div style="margin-top: 15px;">
-			<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3919.775145735074!2d106.70436431428682!3d10.75180526258894!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1svi!2s!4v1559320476029!5m2!1svi!2s" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3724.6963246222786!2d105.84315191476291!3d21.004806686011335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ac76ccab6dd7%3A0x55e92a5b07a97d03!2zVHLGsOG7nW5nIMSQ4bqhaSBo4buNYyBCw6FjaCBraG9hIEjDoCBO4buZaQ!5e0!3m2!1svi!2s!4v1590988285929!5m2!1svi!2s" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 		</div>
 	</div>
 </div>

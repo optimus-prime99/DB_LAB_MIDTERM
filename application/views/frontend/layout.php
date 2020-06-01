@@ -46,7 +46,7 @@
         <?php 
             $this->load->view('frontend/modules/topbar');
         ?>
-        <!-- HEADER LOGO + SEARCH -->
+        <!-- HEADER LOGO + SEARCH --> 
         <?php 
             $this->load->view('frontend/modules/logo-search');
         ?>
