@@ -11,7 +11,7 @@
 					</button>
 					<div class="icon-cart-mobile hidden-md hidden-lg">
 						<a href="gio-hang">
-							<i class="fa fa-shopping-cart" aria-hidden="true" style="color: #0f9ed8; font-size: 17px;"></i>
+							<i class="fa fa-shopping-cart" aria-hidden="true" style="color: #f9ca24; font-size: 17px;"></i>
 							<span>(<?php  
                                if($this->session->userdata('cart')){
                                 $val = $this->session->userdata('cart');

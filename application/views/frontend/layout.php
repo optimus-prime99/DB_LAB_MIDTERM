@@ -12,7 +12,7 @@
             if(isset($title))
                 echo $title;
             else
-                echo "Smart Store - Điện thoại, Laptop, Link kiện chính hãng";
+                echo "XX Watch- Đồng hồ, linh kiện chính hãng";
         ?>
     </title>
     <link rel="icon" type="image/x-icon" href="public/images/cart2.png">
@@ -80,7 +80,7 @@
         <script src="public/js/custom-owl.js"></script>
         <script src="public/js/jquery.flexslider.js"></script>
         <div class='scrolltop'>
-        <div class='scroll icon'><i class="fa fa-4x fa-angle-up"></i></div>
+        <div class='scroll icon' style="background: #f9ca24"><i class="fa fa-4x fa-angle-up"></i></div>
         </div>
     </body>
 </html>

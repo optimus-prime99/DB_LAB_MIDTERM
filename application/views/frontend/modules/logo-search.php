@@ -6,16 +6,16 @@
     <div class="col-xs-12 col-sm-12 col-md-5 col-lg-5 search">
       <div class="contact-row">
         <div class="phone inline">
-          <i class="icon fa fa-phone"></i> (84) 358082646
+          <i class="icon fa fa-phone" style="color: #f9ca24"></i> (84) 358082646
         </div>
         <div class="contact inline">
-          <i class="icon fa fa-envelope"></i> dominhthong99@gmail.com
+          <i class="icon fa fa-envelope" style="color:#f9ca24"></i> dominhthong99@gmail.com
         </div>
       </div>
       <form action="search" method="get" role="form">
-        <div class="input-search">
+        <div class="input-search" >
           <input type="text" class="form-control" id="search_text" name="search" placeholder="Nhập từ khóa để tìm kiếm...">
-          <button>
+          <button style=" background: #f9ca24;">
              <!--  <ul class="search-quick">
                 <li>
                   <a href="">
@@ -36,7 +36,7 @@
        <div class="cart_header">
         <a href="gio-hang" title="Giỏ hàng">
          <span class="cart_header_icon">
-          <img src="<?php echo base_url() ?>public/images/cart2.png" alt="Cart">
+          <img src="<?php echo base_url() ?>public/images/cart2.png" alt="Cart" style="width:40px;height:40px;">
         </span>
         <span class="box_text">
           <strong class="cart_header_count">Giỏ hàng <span>(<?php  
@@ -90,7 +90,7 @@
    <div class="user_login">
      <a href="thong-tin-khach-hang" title="Tài khoản">
       <div class="user_login_icon">
-       <img src="<?php echo base_url() ?>public/images/user.png" alt="Cart">
+       <img src="<?php echo base_url() ?>public/images/user.png" alt="Cart" style="width:40px;height:40px;">
      </div>
      <div class="box_text">
        <strong>Tài khoản</strong>

@@ -395,7 +395,7 @@
 	display: block;
 	padding: 10px 15px;
 	font-size: 0.9em;
-	color: #685e52; !important;
+	color: #685e52 !important;
 }
 
 .nav>li>a:hover{
@@ -478,7 +478,7 @@
 }
 
 .search input, .search button{
-	border: 1px solid #0f9ed8;
+	border: 1px solid #f9ca24;
 }
 
 .search button{
@@ -509,7 +509,7 @@
 	color: #fff;
 	min-width: 10px;
 	height: 17px;
-	line-height: 20px
+	line-height: 20px;
 	top:0px;
 	position: absolute;
 	background: #0f9ed8;
@@ -531,7 +531,7 @@
 
 .menu-pri{
 	width: 100%;
-	background: #0f9ed8;
+	background: #f9ca24;
 }
 
 /* Định dạng CSS MOBILE */
@@ -847,7 +847,7 @@ span.small-text {font-size: 14px;color: #888;}
 /* SẢN PHẨM KHUYẾN MẠI */
 .sale-title{
 	text-align: center;
-	background: #0f9ed8;
+	background: #f9ca24;
 	align-items: center;
 	justify-content: center;
 	width: 100%;

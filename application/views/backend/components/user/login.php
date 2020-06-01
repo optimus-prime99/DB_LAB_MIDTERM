@@ -13,7 +13,7 @@
     <body>
         <div class="container khung">
             <div class="title">
-                <h2 class="text-center" style="color:#337ab7">Smart Store</h2>
+                <h2 class="text-center" style="color:#337ab7">XX Watch</h2>
             </div>
             <hr>
             <div class="myform">

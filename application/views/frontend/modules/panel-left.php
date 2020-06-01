@@ -1,9 +1,9 @@
 <div class="menu-pri">
     <div class="container">
-        <div class="panel-left" style="background: #0f9ed8;">
+        <div class="panel-left" style="background: #f9ca24;">
             <!--MOBILE-->
             <nav class="navbar navbar-default hidden-md hidden-lg" role="navigation">
-                <div class="container-fluid" style="background-color: #0f9ed8;">
+                <div class="container-fluid" style="background-color: #f9ca24;">
                     <div class="navbar-header">
                         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
                             <span class="icon-bar"></span>
@@ -49,7 +49,7 @@
             </nav>
             <!--MD LG-->
         </div>
-        <div class="col-md-12 col-lg-12 panel-right hidden-xs text-center" style="background: #0f9ed8;">
+        <div class="col-md-12 col-lg-12 panel-right hidden-xs text-center" style="background: #f9ca24;">
             <ul class="menu-right" style="display: inline-block;">
                 <li class="pull-left"><a href="">Trang chủ</a></li>
                 <li class="pull-left"><a href="san-pham">Sản phẩm</a></li>

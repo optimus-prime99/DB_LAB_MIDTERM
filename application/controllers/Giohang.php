@@ -17,7 +17,7 @@ class Giohang extends CI_Controller {
     }
     
     public function index(){
-        $this->data['title']='Smart store - Giỏ hàng của bạn';
+        $this->data['title']='XX Watch - Giỏ hàng của bạn';
         $this->data['view']='index';
         $this->load->view('frontend/layout',$this->data);
     }
@@ -159,7 +159,7 @@ class Giohang extends CI_Controller {
             redirect('/thankyou','refresh');
 
         }else{
-            $this->data['title']='Smart store - Thông tin đơn hàng';
+            $this->data['title']='XX Watch - Thông tin đơn hàng';
             $this->data['view']='info-order';
             $this->load->view('frontend/layout',$this->data);
         }
@@ -201,10 +201,10 @@ class Giohang extends CI_Controller {
             $config['mailtype'] = 'html';
             $config['validation'] = TRUE;   
             $this->email->initialize($config);
-            $this->email->from('sale.smart.store.2019@gmail.com', 'Smart Store');
+            $this->email->from('sale.smart.store.2019@gmail.com', 'XX Watch');
             $list = array($val['email']);
             $this->email->to($list);
-            $this->email->subject('Hệ thống Smart Store');
+            $this->email->subject('Hệ thống XX Watch');
             $body = $this->load->view('frontend/modules/email',$data,TRUE);
             $this->email->message($body); 
             $this->email->send();
@@ -214,7 +214,7 @@ class Giohang extends CI_Controller {
             $this->Mcustomer->customer_update($datax,$idx);
             $this->session->unset_userdata('id-info-customer','money_check_coupon');
         }   
-        $this->data['title']='Smart Store.vn - Kết quả đơn hàng';
+        $this->data['title']='XX Watch.vn - Kết quả đơn hàng';
         $this->data['view']='thankyou';
         $this->load->view('frontend/layout',$this->data);
     }

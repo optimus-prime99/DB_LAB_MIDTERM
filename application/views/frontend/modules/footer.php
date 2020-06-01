@@ -1,5 +1,5 @@
 <footer id="footer">
-    <div class="news-social" style="background: #0f9ed8; height: 50px">
+    <div class="news-social" style="background: #f9ca24; height: 50px">
         <div class="container">
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                 <!-- <ul class="list-unstyled social pull-right">
@@ -19,7 +19,7 @@
                     <img src="public/images/smart-mobi2.png" style="width: 100%;" class="img-fix f-logo" alt="smart-construction">
                 </a>
                 <div class="about-store">
-                 Shop Smart phone. Chất lượng - giá cả hợp lý
+                 Shop Đồng hồ Chất lượng - Giá cả hợp lý
              </div>
          </div>
          <div class="col-xs-12 col-sm-6">
@@ -36,7 +36,7 @@
                     </li>
                     <li class="clearfix">
                         <i class="fa fa-envelope"></i>
-                        <span><a href="mailto:vanhiepp1998@gmail.com">dominhthong99@gmail.com</a></span>
+                        <span><a href="mailto:dominhthong99@gmail.com">dominhthong99@gmail.com</a></span>
                     </li>
                 </ul>
             </div>
