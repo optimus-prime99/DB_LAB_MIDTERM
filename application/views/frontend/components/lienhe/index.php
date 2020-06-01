@@ -16,30 +16,30 @@
 						<div class="row" style="padding-left: 14px;">
 							<div class="col-md-4 col-12">
 								<div class="form-group" style="width: 200px;">
-									<label for="name"><em> Họ tên</em><span class="required">*</span></label>
+									<label for="name"><em> Họ tên</em><span class="required"><i style="color: red">*</i></span></label>
 									<input id="name" name="fullname" type="text" value="" class="form-control">
 								</div>
 							</div>
 							<div class="col-md-4 col-12">
 								<div class="form-group" style="width: 200px;">
-									<label for="email"><em> Email</em><span class="required">*</span></label>
+									<label for="email"><em> Email</em><span class="required"><i style="color: red">*</i></span></label>
 									<input id="email" name="email" class="form-control" type="email" value="">
 								</div>
 							</div>
 							<div class="col-md-4 col-12">
 								<div class="form-group" style="width: 200px;">
-									<label for="phone"><em> Số điện thoại</em><span class="required">*</span></label>
+									<label for="phone"><em> Số điện thoại</em><span class="required"><i style="color: red">*</i></span></label>
 									<input type="number" id="phone" class="form-control" name="phone">
 
 								</div>
 							</div>
 						</div>
 						<div class="form-group">
-							<label for="message"><em> Tiêu đề</em><span class="required">*</span></label>
+							<label for="message"><em> Tiêu đề</em><span class="required"><i style="color: red">*</i></span></label>
 							<textarea id="message" name="title" class="form-control custom-control" rows="2"></textarea>
 						</div>
 						<div class="form-group">
-							<label for="message"><em> Lời nhắn</em><span class="required">*</span></label>
+							<label for="message"><em> Lời nhắn</em><span class="required"><i style="color: red">*</i></span></label>
 							<textarea id="message" name="content" class="form-control custom-control" rows="5"></textarea>
 						</div>
 						<button type="submit" class="btn-update-order" >Gửi nhận xét</button>
@@ -49,22 +49,20 @@
 			</div>
 		</div>
 		<div class="col-md-4 col-12">
-			<div class="f-contact" style="
-			padding-left: 32px;
-			">
+			<div class="f-contact" style="padding-left: 32px; width: 400px">
 			<h1 style="color: black">Thông tin liên hệ</h1>
 			<ul class="list-unstyled">
 				<li class="clearfix">
-					<i class="fa fa-map-marker fa-1x" style="color:#0f9ed8; padding: 20px; "></i>
-					<span style="color: black"> 33 Trần Xuân Soạn, Q7, TP.HCM</span><br>
+					<i class="fa fa-map-marker fa-1x" style="color:#f9ca24; padding: 20px; "></i>
+					<span style="color: black"> Số 1, Đại Cồ Việt, Hai Bà Trưng, Hà Nội</span><br>
 				</li>
 				<li class="clearfix">
-					<i class="fa fa-phone fa-1x" style="color:#0f9ed8;padding: 20px;  "></i>
-					<span style="color: black">08.335588 - 0981.33557</span>
+					<i class="fa fa-phone fa-1x" style="color:#f9ca24;padding: 20px;  "></i>
+					<span style="color: black">0358082646</span>
 				</li>
 				<li class="clearfix">
-					<i class="fa fa-envelope fa-1x " style="color:#0f9ed8; padding: 20px; "></i>
-					<span style="color: black"><a href="mailto:dominhthong99@gmail.com">sale.smartstore@gmail.com</a></span>
+					<i class="fa fa-envelope fa-1x " style="color:#f9ca24; padding: 20px; "></i>
+					<span style="color: black"><a href="mailto:dominhthong99@gmail.com">dominhthong99@gmail.com</a></span>
 				</li>
 			</ul>
 		</div>

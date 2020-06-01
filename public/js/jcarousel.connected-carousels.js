@@ -3,7 +3,7 @@
     // It connects one item from the navigation carousel to one item from the
     // stage carousel.
     // The default behaviour is, to connect items with the same index from both
-    // carousels. This might _not_ work with circular carousels!
+    // carousels. This might _not_ work with circular carousels! 
     var connector = function(itemNavigation, carouselStage) {
         return carouselStage.jcarousel('items').eq(itemNavigation.index());
     };

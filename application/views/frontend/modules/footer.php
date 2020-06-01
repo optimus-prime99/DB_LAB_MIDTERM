@@ -19,7 +19,7 @@
                     <img src="public/images/smart-mobi2.png" style="width: 100%;" class="img-fix f-logo" alt="smart-construction">
                 </a>
                 <div class="about-store">
-                 Shop Đồng hồ Chất lượng - Giá cả hợp lý
+                 Shop đồng hồ chất lượng- Giá cả hợp lý
              </div>
          </div>
          <div class="col-xs-12 col-sm-6">
