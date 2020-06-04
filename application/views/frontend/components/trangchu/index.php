@@ -1,11 +1,11 @@
 <section id="menu-slider">
     <div class="slider">
         <div class="container">
-           <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 list-menu pull-left" style="height: 321px;">
+           <!-- <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 list-menu pull-left" style="height: 321px;">
              <img style="width: 100%; height: 160px;" src="public/images/Right-banner.png">
              <img style="width: 100%; height: 160px;" src="public/images/banner2.png">
-         </div>
-         <div class="col-xs-12 col-sm-12 col-md-9 col-lg-9 slider-main pull-left">
+         </div> -->
+         <div style="margin-top:15px">
             <?php 
             $this->load->view('frontend/modules/slider');
             ?>
@@ -210,7 +210,7 @@
             <?php  
             $listBaiViet=$this->Mcontent->content_list_home(6, 'all');
             foreach ($listBaiViet as $rowPost) :?>
-                <div class="col-xs-12 col-12 col-sm-6 col-md-4 col-lg-4" style="margin: 5px;">
+                <div class="col-xs-12 col-12 col-sm-4 col-md-2 col-lg-2" style="margin: 15px;">
                     <div class="latest">
                         <a href="tin-tuc/<?php echo $rowPost['alias'] ?>">
                             <div class="tempvideo">
@@ -239,7 +239,7 @@
                                     Miễn phí giao hàng
                                 </span>
                                 <span class="small-text">
-                                    Cho hóa đơn từ 100,000,000 đ
+                                    Cho hóa đơn từ 1,000,000 đ
                                 </span>
                             </div>
                         </div>
