@@ -16,7 +16,7 @@
         <div class="col-xs-12 col-sm-12 col-md-6">
             <div class="col-xs-12 col-sm-6">
                 <a href="trang-chu">
-                    <img src="public/images/smart-mobi2.png" style="width: 100%;" class="img-fix f-logo" alt="smart-construction">
+                    <img src="public/images/B-watch.png" style="width: 80%; height: 80%" class="img-fix f-logo" alt="smart-construction">
                 </a>
                 <div class="about-store">
                  Shop đồng hồ chất lượng- Giá cả hợp lý

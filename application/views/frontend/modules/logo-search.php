@@ -1,7 +1,7 @@
 <section class="logo-search">
   <div class="container">
     <div class="col-xs-12 col-sm-12 col-md-3 col-lg-3 logo">
-      <a href="<?php echo base_url() ?>"><img src="<?php echo base_url() ?>public/images/smart-mobi2.png" alt="Logo Construction"></a>
+      <a href="<?php echo base_url() ?>"><img src="<?php echo base_url() ?>public/images/B-watch.png" style="width:80%; height:80%" alt="Logo Construction"></a>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-5 col-lg-5 search">
       <div class="contact-row">

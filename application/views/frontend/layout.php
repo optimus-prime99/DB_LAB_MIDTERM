@@ -15,7 +15,8 @@
                 echo "XX Watch- Đồng hồ, linh kiện chính hãng";
         ?>
     </title>
-    <link rel="icon" type="image/x-icon" href="public/images/cart2.png">
+    <!-- <link rel="icon" type="image/x-icon" href="public/images/cart2.png"> -->
+    <link rel="icon" type="image/x-icon" href="public/images/title.png">
     <link href="public/css/bootstrap.css" rel="stylesheet">
     <link href="public/css/font-awesome.css" rel="stylesheet">
     <link href="public/css/lte.css" rel="stylesheet">
