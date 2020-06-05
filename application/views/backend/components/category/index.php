@@ -56,7 +56,7 @@
 											<tr>
 												<td class="text-center"><?php echo $row['id'] ?></td>
 												<td>
-													<a href="<?php echo base_url() ?>admin/category/update/<?php echo $row['id'] ?>"><?php echo $row['name'] ?>
+													<a href="admin/category/update/<?php echo $row['id'] ?>"><?php echo $row['name'] ?>
 													(<?php $total=$this->Mproduct->product_count_parentid($row['id']); echo $total; ?>)
 												</a>	
 											</td>
@@ -89,7 +89,7 @@
 												<?php
 												if($user['role']==1){
 													echo '<td class="text-center">
-													<a class="btn btn-success btn-xs" href="<?php echo base_url() ?>admin/category/update/'.$row['id'] .'" role = "button">
+													<a class="btn btn-success btn-xs" href="admin/category/update/'.$row['id'] .'" role = "button">
 													<span class="glyphicon glyphicon-edit"></span>Sửa
 													</a>
 													</td>';

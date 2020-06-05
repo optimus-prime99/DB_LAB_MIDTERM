@@ -62,16 +62,16 @@
 										<div class="fk-sales">
 											</ul>
 											<ul>
-												<li>Tặng PMH Phụ Kiện 2,000,000đ (khi phiếu mua hàng trên 100,000,000 đ)</li>
+												<li>Tặng Phụ Kiện 200,000đ (khi phiếu mua hàng trên 10,000,000 đ)</li>
 											</ul>
 											<ul>
-												<li>Tặng Flip Cover chính hãng Samsung (Áp dụng đến 26/05) <a href="#" target="_blank">Xem chi tiết</a>
+												<li>Tặng miếng dán đồng hồ (Áp dụng đến 30/06) <a href="#" target="_blank">Xem chi tiết</a>
 												</li>
 											</ul>
-											<ul>
-												<li>Giảm thêm 900,000đ khi mua combo sức khỏe - thời trang (Điện thoại + Samsung Watch + Samsung Buds) <a href="#" target="_blank">Xem chi tiết</a>
+											<!-- <ul>
+												<li>Giảm thêm 200,000đ khi mua combo sức khỏe - thời trang (Điện thoại + Samsung Watch + Samsung Buds) <a href="#" target="_blank">Xem chi tiết</a>
 												</li>
-											</ul>
+											</ul> -->
 										</div>
 									</div>
 								</div>
@@ -79,7 +79,7 @@
 							<div style="margin-top: 20px;">
 								<b>Tình trạng</b>
 								<br>
-								<span>Nguyên hộp. Đầy đủ phụ kiện từ nhà sản xuất, gồm: Sạc, cáp, tai nghe, que lấy SIM, sách hướng dẫn</span>
+								<span>Nguyên hộp. Đầy đủ phụ kiện từ nhà sản xuất</span>
 							</div>
 							<div style="margin-top: 20px;">
 								<b>Bảo hành</b>
