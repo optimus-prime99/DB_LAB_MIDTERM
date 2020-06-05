@@ -12,7 +12,7 @@
             if(isset($title))
                 echo $title;
             else
-                echo "XX Watch- Đồng hồ, linh kiện chính hãng";
+                echo "B-Watch- Đồng hồ, linh kiện chính hãng";
         ?>
     </title>
     <!-- <link rel="icon" type="image/x-icon" href="public/images/cart2.png"> -->
