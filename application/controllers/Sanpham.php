@@ -2,7 +2,7 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Sanpham extends CI_Controller {
-    function __construct() {
+    function __construct() { 
         parent::__construct();
         $this->load->model('frontend/Mproduct');
         $this->load->model('frontend/Mcategory');
